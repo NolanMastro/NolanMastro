@@ -34,8 +34,8 @@
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,cpp,bots,java,kali,github,selenium,ps,git,docker" />
-        <img src="https://skillicons.dev/icons?i=github,rasberrypi,selenium,vscode,androidstudio,arduino" /><br>
+        <img src="https://skillicons.dev/icons?i=py,cpp,bots,java,kali,github,selenium" />
+        <img src="https://skillicons.dev/icons?i=github,selenium,vscode,androidstudio,arduino,docker,git,ps" /><br>
     </a>
 </div>
 
