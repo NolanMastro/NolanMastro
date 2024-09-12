@@ -33,9 +33,21 @@
 <h2 align="center">⚒️ tools im learning ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,cpp,bots,java,kali,github,selenium" />
-    <img src="https://skillicons.dev/icons?i=github,rasberrypi,selenium,vscode,androidstudio" /><br>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,cpp,bots,java,kali,github,selenium,ps,git,docker" />
+        <img src="https://skillicons.dev/icons?i=github,rasberrypi,selenium,vscode,androidstudio,arduino" /><br>
+    </a>
 </div>
 
 <br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 <hr/>
