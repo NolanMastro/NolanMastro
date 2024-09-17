@@ -10,11 +10,11 @@
 
 <div align="center">
  
-  I’m currently working on **visualising sorting algorithms**
+  🔭I’m currently working on **visualising sorting algorithms**
  
-  I’m currently learning **java, data structures , automation**
+  🌱I’m currently learning **java, data structures , automation**
 
- Ask me about **selenium, python, cursor... or anything [here](https://github.com/NolanMastro/NolanMastro/issues)**
+ 💬Ask me about **selenium, python, cursor... or anything [here](https://github.com/NolanMastro/NolanMastro/issues)**
 
 
  </div>
@@ -30,7 +30,7 @@
 
  <hr/>
 
-<h2 align="center">tools im learning</h2>
+<h2 align="center">⚒️ tools im learning ⚒️</h2>
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
@@ -42,7 +42,7 @@
 <hr/>
 
 <div align="center">
-  <h2> My Contributions </h2>
+  <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NolanMastro/NolanMastro/output/github-contribution-grid-snake.svg" />
   
