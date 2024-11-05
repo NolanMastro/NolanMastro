@@ -10,7 +10,7 @@
 
 <div align="center">
  
-  🔭I’m currently working on **visualising sorting algorithms**
+  🔭I’m currently working on **optical character recognition**
  
   🌱I’m currently learning **java, data structures , automation**
 
