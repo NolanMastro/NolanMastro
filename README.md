@@ -12,7 +12,7 @@
  
   🔭I’m currently working on **optical character recognition**
  
-  🌱I’m currently learning **java, data structures , automation**
+  🌱I’m currently learning **java, data structures, automation**
 
  💬Ask me about **selenium, python, cursor... or anything [here](https://github.com/NolanMastro/NolanMastro/issues)**
 
