@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=welcome.;+my+names+Nolan;" />
 </h1>
 
-<h3 align="center">aspiring self taught developer</h3>
 
 <br/>
 
