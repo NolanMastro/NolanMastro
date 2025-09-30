@@ -9,7 +9,7 @@
 
 <div align="center">
  
-  🔭I’m currently working on **bigger scale automation**
+  🔭I’m currently working on **large scale automation**
  
   🌱I’m currently learning **swift, data structures, app creation**
 
@@ -29,7 +29,7 @@
 
  <hr/>
 
-<h2 align="center">⚒️ tools im learning ⚒️</h2>
+<h2 align="center">tools i use</h2>
 <br/>
 <div align="center">
     <a href="https://skillicons.dev">
@@ -41,7 +41,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>my contributions</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/NolanMastro/NolanMastro/output/github-contribution-grid-snake.svg" />
   
