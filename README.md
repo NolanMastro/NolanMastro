@@ -9,11 +9,11 @@
 
 <div align="center">
  
-  🔭I’m currently working on **optical character recognition**
+  🔭I’m currently working on **bigger scale automation**
  
-  🌱I’m currently learning **java, data structures, automation**
+  🌱I’m currently learning **swift, data structures, app creation**
 
- 💬Ask me about **selenium, python, cursor... or anything [here](https://github.com/NolanMastro/NolanMastro/issues)**
+ 💬Ask me about **selenium, python, java... or anything [here](https://github.com/NolanMastro/NolanMastro/issues)**
 
 
  </div>
